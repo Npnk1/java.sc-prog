@@ -1,0 +1,6 @@
+function berekenGemiddelde(a, b, c, d, e, f, g) {
+    return (a + b + c + d + e + f + g) / 7;
+}
+
+let gemiddelde = berekenGemiddelde(10, 20, 30, 40, 50, 60, 70);
+console.log(gemiddelde);
